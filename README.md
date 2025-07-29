@@ -1,7 +1,9 @@
 # GridManaBars
+
 Adds bars for mana, rage, and energy to the Grid unit frames.
 
-# Problems?
+## Problems?
+
 With version 0.6 most of the code was rewritten to adapt the design of 
 GridManaBars more to the idea of Grids "status<->indicator" concept.
 
